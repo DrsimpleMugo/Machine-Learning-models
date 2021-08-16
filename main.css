@@ -1,0 +1,51 @@
+
+.help
+{
+    background-color:#7ddaaead !important;
+    height:100%;
+    width:100%;
+    align-content: center;
+    padding-top: 30px;
+    text-align: center;
+
+}
+h1
+{
+    font-size: 40px;
+    font-family: 'Calibri';
+    color: #20e430;
+}
+h2
+{
+    font-size:30px;
+    color:rgb(28, 42, 49);
+    text-align: center;
+}
+
+
+h3
+{
+    font-size:20px;
+    font-family: 'Times New Roman';
+    color: rgb(25, 51, 31);
+}
+
+section{
+    text-align: center;
+}
+
+ section p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.predict{
+    background-color: aquamarine;
+}
+
+header{
+    text-align: center;
+    padding-top: 30px;
+    height: 100px;
+    background-color: cyan;
+}
